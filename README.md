@@ -1,1 +1,2 @@
 # Brain-Tumor-Classification
+In This project, I used an efficient net model and train it on a Brain MRI dataset. This dataset has more than 3000 Brain MRI scans which are categorized in four classes - Glioma Tumor, Meningioma Tumor, Pituitary Tumor and No Tumor. Objective of this project is to create an image classification model that can predict Brain MRI scans that belong to one of the four classes with a reasonably high accuracy
